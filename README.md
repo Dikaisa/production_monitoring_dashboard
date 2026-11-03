@@ -40,7 +40,7 @@ Di lini produksi, setiap hari operator harus mencatat **planning, stok sendiri, 
 
 ---
 
-## 📊 Hasil Analisis
+## 📊 Contoh Hasil Analisis
 
 Periode: **Mei – Oktober 2026** · 141 hari kerja · 5 part · 705 baris data
 
@@ -54,7 +54,9 @@ Periode: **Mei – Oktober 2026** · 141 hari kerja · 5 part · 705 baris data
 
 ![Heatmap](images/heatmap_part_bulan.png)
 
-### Insight & Rekomendasi
+### Contoh Insight & Rekomendasi
+
+> Semua angka di bawah berasal dari **data simulasi**, jadi tidak menggambarkan kondisi perusahaan mana pun. Tujuannya untuk menunjukkan alur analisis, dari data mentah sampai rekomendasi.
 
 | # | Temuan | Rekomendasi |
 |---|---|---|
@@ -111,8 +113,8 @@ Periode: **Mei – Oktober 2026** · 141 hari kerja · 5 part · 705 baris data
 ## 🚀 Cara Menjalankan
 
 ```bash
-git clone https://github.com/[username]/production-monitoring.git
-cd production-monitoring
+git clone https://github.com/Dikaisa/production_monitoring_dashboard.git
+cd production_monitoring_dashboard
 pip install -r requirements.txt
 
 # (opsional) buat ulang data & workbook
@@ -137,5 +139,5 @@ Buka `notebooks/analisis_produksi.ipynb` untuk analisisnya, atau langsung buka f
 **Muhammad Dikaisa Ibnu Amin**
 Fresh graduate Teknik Informatika, tertarik di bidang Data Analyst & Data Science
 
-- LinkedIn: `[link LinkedIn]`
+- LinkedIn: [linkedin.com/in/muhammaddikaisa](https://www.linkedin.com/in/muhammaddikaisa/)
 - Email: muhammaddikaisa1@gmail.com
